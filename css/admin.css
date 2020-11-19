@@ -1,0 +1,15 @@
+.form_inputs fieldset > ul > li > label {
+    width: 24%;
+}
+
+div.tokens dt {
+    float: left;
+    width: 100px;
+}
+_div.tokens dd {
+    float: left;
+    width: 300px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
